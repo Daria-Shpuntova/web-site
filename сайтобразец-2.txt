@@ -1,0 +1,139 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Home</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <!--
+      Need a visual blank slate?
+      Remove all code in `styles.css`!
+    -->
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="script.js"></script>
+  </head>
+  <body id="all">
+   
+    <header id="verh">
+      <div class="glavheard">
+      <div class="head">
+      DES STUDIO
+      </div>
+   <div class="men2">
+   </div>
+      <div class="menuu">
+      <ul class="menu">
+      <li><a href="#">NENU</a></li>
+      <li><a href="#">SOMETHING-1</a></li>
+      <li><a href="#">SOMETHING-2</a></li>
+      <li><a href="#">CONTACTS</a></li>
+      </ul>
+    </div>
+  </div>
+    </header>
+    
+<div class="heard2" id="heard2">
+
+</div>
+
+<div class="cent" id="cente">
+  <div class="left1">
+</div>
+  <div class="center">
+      <img src="https://phonoteka.org/uploads/posts/2021-04/1619394285_14-phonoteka_org-p-tsvetnoe-steklo-fon-15.jpg" width="150" height="150"> 
+      <img src="https://catherineasquithgallery.com/uploads/posts/2021-02/1614324639_44-p-raznotsvetnie-kubiki-fon-56.jpg" width="300" height="250">
+      <img src="https://cdn.ananasposter.ru/image/cache/catalog/poster/art/89/4781-1000x830.jpg" width="125" height="150">
+    </div>
+    <div class="right1">
+    </div>
+  </div>
+  <div class="heard2" id="heard2">
+</div>
+
+<div class="blok1" id="blok1"> 
+  <div class="blok1left"> 
+  </div>
+<div class="part1" id="part11">
+  <h3>WELCOME</h3>
+  <img src="https://trikky.ru/wp-content/blogs.dir/1/files/2020/05/15/colors.jpg" height="50px" width="190px">
+  <h5>  Какой-то текст</h5>
+    <p>  Еще какой-то текст с кнопкой, она наверное ссылка</p>
+    <div>
+      <a href="#" class="buttom1">Далее </a>
+    </div>
+</div>
+<div class="part2" id="part12">
+<h3>LATEST WORK</h3>
+<img src="https://static.tildacdn.com/tild3036-3733-4464-b939-623539383139/setwallsru-83795.jpg" height="50px" width="190px">
+<h5> Какой-то текст</h5>
+  <p>  Еще какой-то текст с кнопкой, она наверное ссылка</p>
+  <div>
+    <a href="#" class="buttom2">Продолжение </a>
+</div>
+</div>
+
+<div class="part3" id="part13">
+  <h3>RECENT POST</h3>
+<h5>Что-то написано</h5>
+<p>Что-то написали на две строчки с переносом и ссылкой<a href="#"> Далее > </a></p>
+<hr color="#383332">
+<h5>И еще что-то написано</h5>
+<p>Что-то короткое написали <a href="#"> Далее > </a></p>
+<hr color="#383332">
+<h5>И еще какая-то надпись</h5>
+<p>Еще один текст на 2 строчки с переносом и ссылкой<a href="#"> Далее ></a></p>
+ <div class="blok1left"> 
+  </div>
+</div>
+<div class="blok1right"> 
+</div>
+</div>
+
+<div class="heard2" id="heard2">
+</div>
+
+<div class="blok2" id="blok2">
+<div class="blok1left2"> 
+</div>
+<div class="part21">
+  <h3>Желтый текст</h3>
+  <h5> Белый заголовок 1 </h5>
+  <p>Иван Сергеевич, описывая исполнителя песни, выражает свое отношение к нему.  </p> <a href="#" class="butum21"> Далее</a>
+</div>
+<div class="part22">
+<h3>Голубой текст</h3>
+<h5> Белый заголовок 2 </h5>
+<p>называет его «человеком впечатлительным и страстным» – эти черты характера помогают певцу передать настроение песни, ее глубину. </p><a href="#" class="butum22"> Далее </a>
+</div>
+<div class="part23">
+<h3>Белый текст</h3>
+<h5> Белый заголовок 3 </h5>
+<p>Песня доносится издалека, звучит в ней «русская, правдивая, горячая душа» и эта песня, связывая прошлое и настоящее народа, уходит вдаль, в будущее.</p><a href="#" class="butum23"> Далее </a>
+</div>
+<div class="blok1right2"> 
+</div>
+</div>
+
+<div class="heard2" id="heard2">
+</div>
+
+
+<div class="end" id="end">
+
+<div class="endleft"> 
+</div>
+<div class="endcenter">
+  <p> Первая часть белым <span> Вторая часть черным цветом </span> </p>
+</div>
+
+<div class="endright"> 
+</div>
+</div>
+
+<div class="heard2" id="heard2">
+</div>
+
+
+  </body>
+</html>
