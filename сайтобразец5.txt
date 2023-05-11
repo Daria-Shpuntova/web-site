@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Home</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <!--
+      Need a visual blank slate?
+      Remove all code in `styles.css`!
+    -->
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="script.js"></script>
+  </head>
+  <body>
+
+<header class="header">
+  <div class="zag">
+<p><span class="zag11"><b>Shoe</b></span><span class="zag12">Store</span></p>
+
+<p>Online Shoes Store</p>
+  </div>
+
+<div class="menuu">
+<div class="menu1">
+  <ul class="menu11">
+  <li><a class="menu111" href="#">My Account</a></li> 
+  <li><a class="menu112" href="#"> My Wishist</a></li> 
+  <li><a class="menu113" href="#"> My Cart</a></li> 
+  <li><a class="menu114" href="#"> Checkout</a></li> 
+  <li><a href="#"> Log In</a></li> 
+  </ul>
+</div>
+<div class="zag30">
+<p><span class="zag31">Shopping Cart 3 itams {<span class="zag32">Sow Cart</span>}</span></p>
+</div>
+</div>
+<div class="logo">
+<img src="https://sneakers.by/image/catalog/blog/2021/new/agg_9342.jpg" height="90">
+</div>
+  </div>
+</header>
+
+
+<div class="menuu2">
+<div class="menuu21">
+<ul class="menuu22">
+  <li><a href="#">Home</a> </li>
+  <li><a href="#">Products</a> </li>
+  <li><a href="#">About</a> </li>
+  <li><a href="#">FAQs</a> </li>
+  <li><a href="#">Checkout</a> </li>
+  <li><a href="#">Contact Us</a> </li>
+</ul>
+</div>
+<div class="serch">
+  <div class="vvod">
+<input type="text"> 
+  </div>
+  <div class="serchpict"><img src="https://icon-library.com/images/instagram_icon_png_white_709011.png" width="20" height="21">
+  </div>
+</div>
+</div>
+
+
+<div class="center">
+<div class="novig">
+<div class="nov">
+  <ul><p>Categories</p>
+    <li><a href="#">My Account</a></li>
+    <li><a href="#">My Wishist</a></li>
+    <li><a href="#">My Cart</a></li>
+    <li><a href="#">Checkout</a></li>
+    <li><a href="#">Products</a></li>
+    <li><a href="#">My Account</a></li>
+    <li><a href="#">My Wishist</a></li>
+    <li><a href="#">My Cart</a></li>
+    <li><a href="#">Checkout</a></li>
+    <li><a href="#">Products</a></li>
+    <li><a href="#">My Account</a></li>
+    <li><a href="#">My Wishist</a></li>
+    <li><a href="#">My Cart</a></li>
+    <li><a href="#">Checkout</a></li>
+    <li class="lii"><a href="#">Products</a></li>
+  </ul>
+</div>
+
+
+<div class="sells">
+<p><b>Bestsellers</b> </p>
+<div class="sell1">
+  <img src="https://avatars.mds.yandex.net/i?id=7d86ed55b7f927da14d468e48ded5e69-5878501-images-thumbs&n=13" width="50">
+ <div class="selltext1"> 
+   <p class="name1"><b>Donec nunc</b></p>
+  <p class="mony1"><b>$10</b></p>
+ </div>
+</div>
+<div class="sell2">
+ <img src="https://ae04.alicdn.com/kf/H8aa9505b09224983a366ff9c5451734eJ/42.jpg" width="50">
+ <div class="selltext2"> 
+ <p class="name2"><b>Lorem ips</b></p>
+ <p class="mony2"><b>$12</b></p>
+</div>
+</div>
+<div class="sell3">
+  <img src="https://ae04.alicdn.com/kf/S5b9fb70178bb46ec97162deac8fe95c3g/-.jpg" width="50">
+  <div class="selltext3"> 
+  <p class="name4"><b>Phasellus</b></p>
+  <p class="mony4"><b>$20</b></p>
+</div>
+</div>
+<div class="sell4">
+  <img src="https://ae04.alicdn.com/kf/HTB1ZT78XOrxK1RkHFCcq6AQCVXa7/-.jpg" width="50">
+  <div class="selltext4"> 
+  <p class="name4"><b>Vestibulum</b></p>
+  <p class="mony4"><b>$8</b></p>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="newnew">
+<div class="center foto">
+  <img src="http://genk.mediacdn.vn/2017/nike-1483613504549.jpg" height="265">
+</div>
+<div class="newtext">
+<p><b>New Products</b></p>
+ </div>
+<div class="new">
+<div class="new1">
+  <p><b>You need</b></p>
+  <img src="https://img3.goodfon.ru/original/1600x1200/2/4e/asics-ronnie-fieg-gt-2.jpg" width="70">
+  <p class="text2 text21">The example bellow explains how to remove bullets using a css style class. </p>
+  <p class="price price1"><b>$100</b></p>
+  <a class="add ssylki1" href="#">Add to Cart</a>
+  <a class="detali det1" href="#">Detali</a>
+</div>
+<div class="new2">
+  <p><b>to define a class</b></p>
+  <img src="https://img1.goodfon.com/original/1600x1200/7/1b/nike-free-trainer-5-0-id.jpg" width="70">
+  <p class="text2 text22"> The same way you can use to define a css to remove bullets from the page footer.</p>
+  <p class="price"><b>$80</b></p>
+  <a class="add" href="#">Add to Cart</a>
+  <a class="detali det2" href="#">Detali</a>
+</div>
+<div class="new3">
+  <p><b>for the bullets you</b></p>
+  <img src="https://data.1freewallpapers.com/download/sneakers-purple-sports-1600x1200.jpg" width="70">
+  <p class="text2 text23">This worked for me in my latest effort to style a WordPress child theme.</p>
+  <p class="price"><b>$60</b></p>
+  <a class="add" href="#">Add to Cart</a>
+  <a class="detali det3" href="#">Detali</a>
+</div>
+<div class="new4">
+  <p><b>want to hide</b></p>
+  <img src="https://img3.goodfon.ru/original/1600x1200/9/46/adidas-zx500-adidas-krossovki.jpg" width="70">
+  <p class="text2 text24">But in this case there was also a ::before specified, which made a bullet out of a 3px border out of a point.</p>
+  <p class="price"><b>$220</b></p>
+  <a class="add" href="#">Add to Cart</a>
+  <a class="detali det4" href="#">Detali</a>
+</div>
+<div class="new5">
+  <p><b>For examples</b></p>
+  <img src="https://divankomodov.ru/upload/iblock/ee5/ee59b8569517c7518660e8643daedaba.jpg" width="70">
+  <p class="text2 text25">So when employing something like this, just give a glance if there are other competing CSS styles.</p>
+  <p class="price"><b>$180</b></p>
+  <a class="add" href="#">Add to Cart</a>
+  <a class="detali det5" href="#">Detali</a>
+</div>
+<div class="new6">
+  <p><b>Then apply</b></p>
+  <img src="https://img1.goodfon.ru/original/1600x1200/3/44/foto-raznoe-krasnye-kedy.jpg" width="70">
+  <p class="text2 text26">Or, to use the ancestor elements:</p>
+  <p class="price"><b>$160</b></p>
+  <a class="add" href="#">Add to Cart</a>
+  <a class="detali det6" href="#">Detali</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="end">
+<div class="endmenu">
+<ul class="menuu23">
+  <li><a class="endmen1" href="#">Home</a> </li>
+  <li><a class="endmen2" href="#">Products</a> </li>
+  <li><a class="endmen3" href="#">About</a> </li>
+  <li><a class="endmen4" href="#">FAQs</a> </li>
+  <li><a class="endmen5" href="#">Checkout</a> </li>
+  <li><a href="#">Contact Us</a> </li>
+</ul>
+</div>
+<div class="info">
+<p><span class="te1">Copy 2072 </span><span class="te2"> You company name</span><span class="te1">|</span><span class="te2">Shoes Theme</span> <span class="te2"> by</span><span class="te2"> templalerno</span>
+</p>
+</div>
+</div>
+
+  </body>
+</html>

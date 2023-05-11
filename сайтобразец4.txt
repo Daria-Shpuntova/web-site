@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Home</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <!--
+      Need a visual blank slate?
+      Remove all code in `styles.css`!
+    -->
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="script.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a href="/" aria-current="page">Home</a>
+      <a href="/page2.html">Company</a>
+      <a href="/page3.html">Services</a>
+      <a href="/page4.html">Works</a>
+      <a href="/page5.html">Contacts</a>
+    </nav>
+<div class="logo">
+<img src="https://fikiwiki.com/uploads/posts/2022-02/1645039762_34-fikiwiki-com-p-kartinki-logotipov-34.png" width="20%">
+<p><br><span>We`ve been working professionally with web design since 2006</span><br>
+ <span> We design, we code, we shoot fotos and make video.</span>
+
+</p>
+    </div>
+    
+
+
+<div class="pic" id="pic">
+<img class="foto1" src="https://img1.goodfon.ru/original/1920x1200/9/81/lampy-svetilniki-zerkalo.jpg" width="31%">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/32e36b22268519.56ee7bed762f3.jpg" width="31%">
+<img src="https://wallpapersmug.com/download/1920x1200/c9de59/bulb-drops-neon.jpg" width="31%">
+ </div>
+
+ <div class="main1" id="main1">
+   <div class="main11"><img src="https://i.pinimg.com/736x/22/2f/63/222f63e0459fce4f9a28a3bfab59e8ca.jpg" width="20">
+    <h4>think</h4>
+    <p> Loren ipum dolor sit ame, con sectetuer adipiscing elit sed diam nonu </p></div> 
+   <div class="main12"><img src="https://st20.stpulscen.ru/images/product/316/861/131_small.png" width="20">
+    <h4>create</h4>
+    <p> Loren ipum dolor sit ame, con sectetuer adipiscing elit sed diam nonu </p></div> 
+   <div class="main13"><img src="https://pickimage.ru/wp-content/uploads/images/detskie/pencil/karandash8.jpg" width="20">
+    <h4>optimize</h4>
+    <p> Loren ipum dolor sit ame, con sectetuer adipiscing elit sed diam nonu </p></div> 
+   <div class="main14"><img src="https://i.pinimg.com/originals/67/42/8b/67428b1d320ad3b0d490d294f1aa1bcc.jpg" width="20">
+    <h4>develop</h4>
+    <p> Loren ipum dolor sit ame, con sectetuer adipiscing elit sed diam nonu </p></div> 
+ </div>
+
+
+<div class="main2">
+  <div class="manu20">
+  <h3>Best Works</h3>
+    <div class="main21">
+<img src="https://grandgames.net/puzzle/source_p/tsvetnie_knopki.jpg" width="130">
+<img src="https://en.grandgames.net/puzzle/source_p/raduzhnaya_mozaika.jpg" width="130">
+<img src="https://grandgames.net/puzzle/source_p/raduzhnie_polosi_1.jpg" width="130">
+<img src="https://blog.codegrape.com/wp-content/uploads/2019/08/art-materials-background.jpg" width="130">
+<a class="more2" href="#"> More > </a>
+    </div>
+  </div>
+
+
+  <div class="manu30">
+    <div class="manu31">
+      <div class="manu311">
+    <h3>Latest News</h3>
+    <p>Ut laoreet dolore magna aliquaerat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamc orper suscipit lobortis nisl utaliquip ex ea commodo consequat.</p>
+    <a href="#"> Read More </a>
+    </div>
+    <img src="https://celes.club/uploads/posts/2022-06/thumbs/1654648867_35-celes-club-p-oboi-raznotsvetnie-kubiki-krasivie-36.jpg" height="150" width="150">
+    </div>
+
+    <div class="manu32">
+   <div class="manu321">
+     <p>Ut laoreet dolore magna aliquaerat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamc orper suscipit lobortis nisl utaliquip ex ea commodo consequat.</p>
+    <a href="#"> Read More </a>
+    </div>
+    <img src="http://ae01.alicdn.com/kf/HTB1EzokmAZmBKNjSZPiq6xFNVXaH.jpg" width="150" height="150">
+  </div>
+    <a class="more3" href="#"> More > </a>
+  </div>
+
+  <div class="menu23">
+<ul class="spisok"><h3>Services</h3>
+  <li> <a href="#">Lorem ipsum dolor sit </a> </li>
+  <li> <a href="#">Amet consectetuer adilit </a> </li>
+  <li> <a href="#">Diam nonummy nibh </a> </li>
+  <li> <a href="#">Euismod tincidunt utet </a> </li>
+  <li> <a href="#">Magna aliquam erat </a> </li>
+  <li> <a href="#">Volutpat ut wisi enim </a> </li>
+  <li> <a href="#">Amet consectetuer adilit </a> </li>
+  <li> <a href="#">Diam nonummy nibh </a> </li>
+  <li> <a href="#">Euismod tincidunt utet </a> </li>
+  <li> <a href="#">Magna aliquam erat </a> </li>
+  <li> <a href="#">Volutpat ut wisi enim </a> </li> 
+
+</ul>
+<a class="more1" href="#"> More > </a>
+  </div>
+</div>
+
+<div class="end">
+  <div class="end1">
+    <p>Lookup 2010</p>
+  </div>
+<div class="end2">
+  <p>Foloow us <img src="https://pixelbox.ru/wp-content/uploads/2022/01/background-avatar-pixelbox.ru-34.jpg" height="20"></p>
+</div>
+</div>
+
+  </body>
+</html>
