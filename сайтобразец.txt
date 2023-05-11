@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <title>Проба сайта</title>
+  </head>
+ 
+<body>
+  
+
+<header>
+  <img src="https://i.pinimg.com/474x/2b/dd/1b/2bdd1b2420cf43b9d7d4c5c6d3905816.jpg" width="70">
+
+<ul class="header">
+  <il><div class="header2">По всем вопросам обращайтесь</div></li>
+    <il><button class="header1"> +7 888-888-88-88 </button></li>
+</ul>
+</header>
+
+
+  <div class="menu1">
+    <ul>
+    <li> <a class="glav" href="http//yandex.ru">Главная</a></li>
+    <li><a class="dost" href="http//yandex.ru">Доставка</a></li>
+    <li><a class="opl" href="http//yandex.ru">Оплата</a></li>
+    <li><a class="akc" href="http//yandex.ru">Акции</a></li>
+    <li><a class="stat" href="http//yandex.ru">Статьи</a></li>
+    <li><a class="kont" href="http//yandex.ru">Контакты</a> </li> 
+    </ul>
+  </div>
+  
+ <div class="bodycenter"> 
+  <div class="menu2">
+  <ul>
+    <li><a href="http//mail.ru"> <img src="https://img2.freepng.ru/20181204/sl/kisspng-clip-art-vector-graphics-arrow-portable-network-gr-5c06de2bdc4c39.9162834815439539639023.jpg" width="20px">Услуга 1 </a></li>
+  <li><a href="http//mail.ru"><img src="https://img2.freepng.ru/20181204/sl/kisspng-clip-art-vector-graphics-arrow-portable-network-gr-5c06de2bdc4c39.9162834815439539639023.jpg" width="20px">Услуга 2 </a></li>
+  <li><a href="http//mail.ru"><img src="https://img2.freepng.ru/20181204/sl/kisspng-clip-art-vector-graphics-arrow-portable-network-gr-5c06de2bdc4c39.9162834815439539639023.jpg" width="20px">Услуга 3</a></li>
+ <li><a href="http//mail.ru"><img src="https://img2.freepng.ru/20181204/sl/kisspng-clip-art-vector-graphics-arrow-portable-network-gr-5c06de2bdc4c39.9162834815439539639023.jpg" width="20px">Услуга 4 </a></li>
+ <li><a href="http//mail.ru"><img src="https://img2.freepng.ru/20181204/sl/kisspng-clip-art-vector-graphics-arrow-portable-network-gr-5c06de2bdc4c39.9162834815439539639023.jpg" width="20px">Услуга 5 </a></li>
+  </ul>
+   </div>
+ 
+ <div class="centralyty">  
+  <div class="center">
+    <h1>Заголовок поста 1</h1>
+    <p>Поседневная практика показывает что укрепление и развитие структуры требуют от нас анализа новый предложений</p>
+    <a class="button" href="http//yandex.ru">Подробнее </a>
+    
+  </div>
+
+  <div class="zagolok2">
+       <div class="text-zag2chact1 text">
+      Какой-то еще текст без картинки. С переносом на другую строку.
+       </div>
+    <div class="text-zag2chact2 text">
+    И еще какой-то еще текст без картинки. С двумя переносами на другие строки. 
+    </div>
+  </div>
+
+<div class="prostotext">Просто како-то текст по центру</div>
+
+<div class="kakoytotext">
+  <div class="part1" id="Dopustim"> 
+    <img src="https://i.pinimg.com/474x/2b/dd/1b/2bdd1b2420cf43b9d7d4c5c6d3905816.jpg" width="40"><br>
+    Какой-то текст с картинкой
+   </div>
+  <div class="part2"> 
+  <img src="https://i.pinimg.com/736x/dd/61/dc/dd61dc87e5475a2b3bc25a64b4a069d8.jpg"  width="50"><br>
+    Еще какой-то  текст с картинкой
+  </div>
+  <div class="part3">
+  И еще какой-то текст с картинкой<br>
+  <img src="https://avatanplus.com/files/resources/mid/57f915eb32fc1157a4fd9ec9.png"  width="55">
+     
+    </div>
+</div>
+</div>
+</div>
+
+<footer class="end">
+ <div class="pics">
+<img src="https://i.pinimg.com/originals/6d/6c/c3/6d6cc39e9b8b814e8097388ed7cbc8a1.png" width="40">
+<img src="https://w7.pngwing.com/pngs/941/666/png-transparent-tourclub-pilgrim-vk-gram-youtube-tagged-youtube.png" width="40">
+<img src=https://zoomobi.ru/wp-content/uploads/5/b/5/5b50860ad1188c5d60f8d1cbd9195829.jpeg" width="40">
+<img src="https://w7.pngwing.com/pngs/920/293/png-transparent-facebook-social-media-marketing-logo-yoganation-facebook-icon-purple-logo-social-media-marketing.png" width="40"> </div>
+
+<div class="cente" id="teht1"> Кто-то это разработал </div>
+ <div class="year" id="teht2">  В каком-то году</div>
+</div>
+
+
+</footer>
+  
+  </body>
+</html>
+  
