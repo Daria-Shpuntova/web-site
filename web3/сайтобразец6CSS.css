@@ -1,0 +1,339 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://abrakadabra.fun/uploads/posts/2021-11/1637162548_1-abrakadabra-fun-p-nochnoi-los-santos-1.jpg");
+ background-size: 100%;
+ background-repeat: no-repeat;
+ background-color: #571c03;
+}
+
+.navnav {
+display: inline-block;
+}
+
+.img1 {
+float: right;
+margin-right: 5%;
+margin-bottom: 2px;
+}
+.img2 {
+  float: right;
+  margin-right: 1%;
+  }
+  
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: -5px;
+  padding-top: -5px;
+  border-bottom: solid 1px #aaa;
+  margin-left:10%;
+  width: 80%;
+  height: 60px;
+  background-color:rgba(40, 28, 9, 0.897);
+
+  }
+
+nav a {
+  font-size: 17px;
+  display: inline-block;
+  min-width: 2rem;
+  padding: 0.2rem;
+  border: solid 1px rgb(148, 144, 144);
+  text-align: left;
+  text-decoration: none;
+  color: beige;
+  width: 15%;
+  margin-top: -13px;
+
+  }
+
+.nav span {
+  font-size: 13px;
+}
+.logo {
+  border: 1px solid rgb(148, 144, 144);
+  padding-top: 8px;
+  padding-bottom: 6px;
+  padding-right: 10px;
+  margin-top: 8.5px;
+  font-size: 28px;
+  color: beige;
+}
+
+
+
+.osnov111 {
+  font-size: 22px;
+  color: rgb(224, 139, 28);
+}
+
+.osnov112 {
+  font-size: 22px;
+  color: orangered;
+ }
+.osnov113 {
+  color: rgb(192, 146, 129);
+  margin-left: 80px;
+  }
+
+.osnov11 {
+  margin-top: 100px;
+  margin-left: -15px;
+  margin-bottom: -20px;
+}
+
+.more {
+  float: right;
+  margin-right:25%;
+  border: 1px solid silver;
+  background-color: silver;
+  border-radius: 2px;
+  width: 100px;
+}
+.more a {
+   text-decoration: none;
+  color: black;
+  padding: 1px;
+}
+.osnov1 {
+  display: inline-block;
+  float: right;
+  width: 250px;
+}
+
+.osnov1111 {
+  display: inline-block;
+}
+
+.center p {
+  color: beige;
+ }
+
+.center {
+  display: inline-block;
+  background-color:rgba(50, 28, 9, 0.897);
+  margin-top: 55px;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 5px;
+}
+
+.cent1 {
+  float: left;
+  width: 35%;
+  padding: 5px;
+  padding-right: 7px;
+}
+.cent2 {
+  float: left;
+  width: 35%;
+  padding: 5px;
+}
+.centmenu {
+  float: left;
+  width: 30%;
+}
+.center a {
+  text-decoration: none;
+  color: beige;
+  font-size: 14px;
+}
+.cent1foto {
+  margin-top: 15px;
+  margin-left: 5px;
+}
+.cent1 p {
+  font-size: 16px;
+}
+.cent2 p {
+  font-size: 16px;
+}
+
+.centmenu li {
+  list-style-type: none;
+  }
+
+.centmenu {
+margin-left: -15px;
+}
+.centmenu a {
+  font-size: 13px;
+}
+.center h3 {
+  color: beige;
+  font-size: 14px;
+}
+.cent2name2 {
+  border-bottom: 1px dashed beige;
+}
+.cent11 {
+  border-bottom: 1px dashed beige;
+  padding-bottom: 11px;
+}
+.cent2foto {
+  margin-top: 4px;
+}
+.cent2foto2 {
+  border-bottom: 1px dashed beige;
+}
+
+.center {
+  border: 1px solid beige;
+  outline: 7px solid rgba(50, 28, 9, 0.897);
+}
+.ending {
+  display: inline-block;
+}
+
+.endmenu1 {
+  float: left;
+  width: 19%;
+  margin-left: 7%;
+  padding: 5px;
+  padding-right: 6px;
+}
+.enddatenew {
+  float: left;
+  width: 39%;
+  padding-left: 5px;
+  height:15px;
+}
+
+.endserch {
+  float: left;
+  width: 35%;
+  margin-right: 0%;
+  padding-left: 5px;
+}
+
+.endmenu1 a{
+ text-decoration: none;
+ color: beige;
+}
+
+.endmenu1 li{
+  list-style-type: none;
+  font-size: 15px;
+  padding-bottom: 7px;
+  }
+
+.li1 {
+  border-bottom: 1px dashed beige;
+  padding-top: 6px;
+}
+.li2 {
+  border-bottom: 1px dashed beige;
+  padding-top: 6px;
+}
+.li3 {
+  border-bottom: 1px dashed beige;
+  padding-top: 6px;
+}
+.li4 {
+  border-bottom: 1px dashed beige;
+  padding-top: 6px;
+}
+.li5 {
+  border-bottom: 1px dashed beige;
+  padding-top: 6px;
+}
+.li6 {
+ padding-top: 6px;
+}
+
+.enddatenew {
+  color: beige;
+
+}
+.endfirst {
+  display: inline-block;
+border: 1px solid #6b2304;
+background-color: #6b2304;
+margin: 2px;
+padding: 2px;
+width:100%;
+}
+.endsecond {
+border: 1px solid #6b2304;
+background-color: #6b2304;
+margin: 2px;
+padding: 2px;
+width:100%;
+}
+.data1 {
+  float: left;
+  color: chocolate;
+  font-size: 25px;
+  margin-top: 10px;
+}
+.textlink1 {
+  font-size: 15px;
+  margin-left: 75px;
+}
+.textdat1 a {
+  text-decoration: none;
+  color: white;
+  margin-left: 11px;
+}
+
+.endserch{
+  color: beige;
+  padding-left:170px;
+}
+
+.endserch a {
+color:chocolate;
+}
+.endserch h4 {
+margin-left:10px;
+}
+
+.endserchhhh {
+  color: chocolate;
+  margin-left:10px;
+}
+
+.button{
+  font-size: 10px;
+  width: 50px;
+}
+
+.forma {
+  display: inline-block;
+}
+
+.forma input {
+  width: 75px;
+  float: left;
+  margin-left: 14px;
+}
+.button a {
+  text-decoration: none;
+  float: left;
+  margin-left: 90px;
+  border: 1px solid #ad3704;
+  background-color: #bd5028;
+  margin-top: -21px;
+  padding: 4px;
+}
+.email {
+  border-top: 1px dashed beige;
+  padding-top: 10px;
+  margin-left:10px;
+width: 150px;
+}
+.theed {
+  color: beige;
+  font-size: 11px;
+  }
+.theed p{
+margin-left: 72px;
+ width: 200px;
+ padding: 5px;
+}
